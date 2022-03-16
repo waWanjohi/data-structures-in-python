@@ -1,1 +1,1 @@
-## My solutions for [Leetcode](https://leetcode.com)
+## My solutions for <a href="https://leetcode.com" target="_blank">Leetcode</a>
